@@ -217,4 +217,8 @@ TSWLatexianTemp*
 /auto/*
 
 # expex forward references with \gathertags
+<<<<<<< HEAD
 *-tags.tex
+=======
+*-tags.tex
+>>>>>>> 11b59906aada4cb6953e44b53c21d8dcc0a5cc2f
